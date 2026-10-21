@@ -1,0 +1,19 @@
+{
+  "boardTop": null,
+  "boardBottom": null,
+  "cellSize": null,
+  "inkContrast": 45,
+  "minInkFraction": 0.03,
+  "maxTileDistance": 40,
+  "maxGlyphDistance": 0.22,
+  "flagRedFraction": 0.06,
+  "lowConfidence": 0.6,
+  "tiles": [
+    { "kind": "Closed", "color": "#161719", "border": "#191a1c" },
+    { "kind": "Open", "color": "#2e2f33", "border": "#191a1c" },
+    { "kind": "Blocked", "color": "#2f3035", "border": "#2f3035" },
+    { "kind": "Closed", "color": "#040404", "border": "#040406" },
+    { "kind": "Open", "color": "#0b0b0d", "border": "#040406" }
+  ],
+  "glyphs": []
+}
